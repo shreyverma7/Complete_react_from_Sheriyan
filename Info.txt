@@ -1,0 +1,17 @@
+ Source platform : youtube
+ Channel name : Sheryians coding school
+ Video Link : https://www.youtube.com/watch?v=E6tAtRi82QY&t=2659s
+
+
+Time Stamp 
+0:00 - 01:04- Introduction
+01:04 - 37:41 - Basics of React
+37:41 - 49:39:04 - JSX
+49:39:04 - 59:33:29 - Hooks in React
+59:33:29 - 01:11:20 - Adding Tailwind CSS
+01:11:20 - 01:19:42- Form Handling in React
+01:19:42 - 01:30:02 - Two Way Binding in React
+01:30:02 - 02:11:24 -  Components
+02:11:24 - 02:42:26 - API Calling with Axios
+02:42:26 - 03:04:11 - React Router DOM
+03:04:11 - 03:26:01 - Context API
